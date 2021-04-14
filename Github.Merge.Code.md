@@ -1,0 +1,1 @@
+https://github.com/wagnerhsu/packt-Adopting-.NET-5/compare/master...PacktPublishing:master
